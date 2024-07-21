@@ -11,20 +11,3 @@ body {
   background-attachment: fixed;
 }
 
-/* dark mode looking scrollbar */
-div::-webkit-scrollbar {
-  width: 8px;
-}
-
-div::-webkit-scrollbar-track {
-  background: #555;
-}
-
-div::-webkit-scrollbar-thumb {
-  background: #121212;
-  border-radius: 5px;
-}
-
-div::-webkit-scrollbar-thumb:hover {
-  background: #242424;
-}
